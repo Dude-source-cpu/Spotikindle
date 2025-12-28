@@ -1,5 +1,6 @@
 const CLIENT_ID = "8ded44f472dc4b02a3418ede94ef4bd6";
-const REDIRECT = location.origin + location.pathname;
+const REDIRECT = 
+  "https://dude-source-cpu.github.io/Spotikindle/mobile.html";
 const SCOPES =
   "user-read-playback-state user-modify-playback-state";
 
