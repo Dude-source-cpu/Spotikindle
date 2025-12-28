@@ -1,4 +1,4 @@
-const CLIENT_ID = "YOUR_SPOTIFY_CLIENT_ID";
+const CLIENT_ID = "8ded44f472dc4b02a3418ede94ef4bd6";
 const REDIRECT = location.origin + location.pathname;
 const SCOPES =
   "user-read-playback-state user-modify-playback-state";
